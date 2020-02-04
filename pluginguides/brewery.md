@@ -1,4 +1,12 @@
-### Fermenting
+### Introduction / Description
+
+Brewery is a custom plugin with unique recipes (known only by Kali and maybe one other) to make alcohol.
+
+Warning: Drinking too much alcohol will get your sprite drunk, possibly to the point of passing out.
+
+### How to Brew
+
+## Fermenting
 
 Step one consists of Fermenting the fresh Ingredients.
 
@@ -12,14 +20,14 @@ Step one consists of Fermenting the fresh Ingredients.
 
 Use a clock on a cauldron, if you want to know the time the ingredients have been fermenting.
 
-### Distilling
+## Distilling
 
 1. Put the bottle with ferment into the brewing stand
 2. Put glowstone dust as filter on top into the brewing stand (The filter will not be consumed)
 
 ![](http://i.imgur.com/RJKV9Xs.png)
 
-### Aging
+## Aging
 
 A barrel is needed for aging. It can be build in two ways:
 
